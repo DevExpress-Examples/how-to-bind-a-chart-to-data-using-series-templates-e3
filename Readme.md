@@ -4,18 +4,21 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Chart for WinForms - Bind a Chart to Data using Series Templates
+
+The following example binds a chart to data at runtime using series templates. It uses the same approach as the [design-time example](https://docs.devexpress.com/WindowsForms/2455/controls-and-libraries/chart-control/getting-started/lesson-4-use-a-series-template-for-auto-created-series), but another data table is generated in this code to simplify the example. For this example to work correctly, do not forget to include all [necessary assemblies](https://docs.devexpress.com/WindowsForms/3160/controls-and-libraries/chart-control/additional-resources/deployment) to the References list of your project.
+
+## Files to Review
 
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
-<!-- default file list end -->
-# How to bind a chart to data using series templates
 
+## Documentation
 
-<p>The following example demonstrates how to bind a chart to data at runtime using series templates.</p>
-
-<br/>
-
+- [How to: Bind a Chart to Data Using Series Templates (Runtime Sample)](https://docs.devexpress.com/WindowsForms/2997/controls-and-libraries/chart-control/examples/creating-charts/providing-data/how-to-bind-a-chart-to-data-using-series-templates-runtime-sample)
+- [SeriesDataMember for ChartControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.SeriesDataMember)
+- [DataSource for ChartControl](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.DataSource)
+- [A list of assemblies](https://docs.devexpress.com/WindowsForms/3160/controls-and-libraries/chart-control/additional-resources/deployment)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?

@@ -21,7 +21,7 @@ The following example binds a chart to data at runtime using series templates. I
 - [A list of assemblies](https://docs.devexpress.com/WindowsForms/3160/controls-and-libraries/chart-control/additional-resources/deployment)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-bind-chart-to-data-using-series-templates&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-bind-chart-to-data-using-series-templates&~~~was_helpful=no)
 
